@@ -91,8 +91,8 @@ function AppShell() {
               Product Catalogue
             </h1>
             <p className="text-muted-foreground mt-1 text-sm">
-              Browse wellness essentials, manage stock states, and build a
-              cleaner cart experience.
+              Browse wellness essentials, manage products, and build a smoother
+              shopping experience.
             </p>
           </div>
 
