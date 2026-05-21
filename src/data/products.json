@@ -1,0 +1,90 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Whey Protein Isolate",
+    "description": "Ultra-pure whey isolate with 27 g of protein per serving. Mixes instantly and digests fast, ideal post-workout or as a high-protein snack. Available in vanilla and chocolate flavours.",
+    "price": 87985,
+    "category": "Supplements",
+    "status": "active",
+    "stock": 120,
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop",
+    "createdAt": "2024-01-15T08:00:00Z"
+  },
+  {
+    "id": "prod-002",
+    "name": "Adjustable Dumbbell Set",
+    "description": "Space-saving adjustable dumbbells with a single dial mechanism. Replaces multiple pairs of weights and comes with a storage tray.",
+    "price": 478400,
+    "category": "Fitness",
+    "status": "active",
+    "stock": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1638536532686-d610adfc8e5c?w=600&auto=format&fit=crop",
+    "createdAt": "2024-02-03T10:00:00Z"
+  },
+  {
+    "id": "prod-003",
+    "name": "Collagen Peptides",
+    "description": "Grass-fed collagen peptides supporting joint health, skin elasticity, and gut integrity. Unflavoured and dissolves in hot or cold liquids.",
+    "price": 55195,
+    "category": "Wellness",
+    "status": "active",
+    "stock": 200,
+    "imageUrl": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=600&auto=format&fit=crop",
+    "createdAt": "2024-02-20T09:00:00Z"
+  },
+  {
+    "id": "prod-004",
+    "name": "High-Protein Meal Bar",
+    "description": "20 g protein, low sugar, and naturally sweetened. A clean, satisfying bar for busy days with no artificial colours or flavours.",
+    "price": 63985,
+    "category": "Nutrition",
+    "status": "active",
+    "stock": 85,
+    "imageUrl": "https://images.unsplash.com/photo-1622484212850-eb596d769edc?w=600&auto=format&fit=crop",
+    "createdAt": "2024-03-01T11:00:00Z"
+  },
+  {
+    "id": "prod-005",
+    "name": "Foam Roller Pro",
+    "description": "High-density EVA foam roller with a textured surface for deep-tissue recovery. Long enough for full back and leg coverage.",
+    "price": 47895,
+    "category": "Recovery",
+    "status": "active",
+    "stock": 60,
+    "imageUrl": "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=600&auto=format&fit=crop",
+    "createdAt": "2024-03-10T14:00:00Z"
+  },
+  {
+    "id": "prod-006",
+    "name": "Creatine Monohydrate",
+    "description": "Micronised creatine monohydrate that supports strength, power, and muscle volume. 500 g tub with 100 servings.",
+    "price": 39985,
+    "category": "Supplements",
+    "status": "archived",
+    "stock": 0,
+    "imageUrl": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=600&auto=format&fit=crop",
+    "createdAt": "2023-11-05T08:00:00Z"
+  },
+  {
+    "id": "prod-007",
+    "name": "Resistance Band Kit",
+    "description": "Set of 5 resistance bands with door anchor, ankle straps, and carry bag. Great for home workouts and recovery sessions.",
+    "price": 31985,
+    "category": "Fitness",
+    "status": "active",
+    "stock": 150,
+    "imageUrl": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=600&auto=format&fit=crop",
+    "createdAt": "2024-04-01T10:00:00Z"
+  },
+  {
+    "id": "prod-008",
+    "name": "Magnesium Glycinate",
+    "description": "High-absorption magnesium glycinate for sleep quality, muscle relaxation, and stress support. 120 capsules.",
+    "price": 35195,
+    "category": "Wellness",
+    "status": "archived",
+    "stock": 0,
+    "imageUrl": "https://images.unsplash.com/photo-1550572017-edd951b55104?w=600&auto=format&fit=crop",
+    "createdAt": "2023-12-15T09:00:00Z"
+  }
+]
